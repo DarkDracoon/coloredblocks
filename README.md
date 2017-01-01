@@ -28,11 +28,13 @@ X R X <- R = Red
 X X X
 This can be confuse at the initial part, but you'll see that will be great :)
 ```
+```
 --------------------------------------------------------------------¬
 LICENSE: 							                             						                 |
 Code: WTFPL							                             						               |
 Blocks: WTFPL						                              						        	    |
 --------------------------------------------------------------------|
+```
 Credits:
 VanessaE for helping me with GitHub, coding...
 DarkDracoon and KikaRz for having the special idea to this mod.
